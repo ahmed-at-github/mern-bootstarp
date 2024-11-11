@@ -1,0 +1,24 @@
+* {
+box-sizing: border-box;
+margin: 0;
+background-color: aliceblue; /* for identification purpose*/
+font-family:'Geologica', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+/* search-bar */
+.search-bar {
+    width: 55%;
+}
+
+.foot-ab a{
+text-decoration: none;
+color: black;
+
+}
+
+li {
+display:inline-block;
+list-style: none;
+padding: 0 5px;
+
+}
